@@ -1,10 +1,10 @@
 Styler with sending logs to a discord bot using the Discord Webhook API.
 
-: closed_lock_with_key: Support for Chrome v80 +, Firefox v75 +, stylize vpn, crypto wallets, wimworld, steam, ftp, get BSSID, token and session discord, etc.
+:closed_lock_with_key: Support for Chrome v80 +, Firefox v75 +, stylize vpn, crypto wallets, wimworld, steam, ftp, get BSSID, token and session discord, etc.
 
 ![Image alt](https://github.com/Khainaaeh/44CALIBER/blob/main/screenshots/1.png)
 
-: exclamation: Written for educational purposes only! I am not responsible for the use of this project and any part of its code.
+:exclamation: Written for educational purposes only! I am not responsible for the use of this project and any part of its code.
 
 
 ---
