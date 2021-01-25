@@ -17,7 +17,7 @@ Styler with sending logs to a discord bot using the Discord Webhook API.
 
 ![Image alt](https://github.com/Khainaaeh/44CALIBER/blob/main/screenshots/3.png)
 
-IMPORTANT: exclamation:
+IMPORTANT:exclamation:
 Do not create a bot with Russian symbols, otherwise the logs will not come.
 
 3) Compile.
